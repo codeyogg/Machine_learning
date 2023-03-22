@@ -14,11 +14,7 @@ Steps to run:
 
 2. Clone this repository.
 
-3. Navigate into the project directory:
-
-   ```bash
-   $ cd openai-quickstart-python
-   ```
+3. Navigate into the project directory.
 
 4. Create a new virtual environment:
 
@@ -32,19 +28,16 @@ Steps to run:
    ```bash
    $ pip install -r requirements.txt
    ```
-
-6. Make a copy of the example environment variables file:
-
-   ```bash
-   $ cp .env.example .env
-   ```
-
-7. Add your [API key](https://beta.openai.com/account/api-keys) to the newly created `.env` file.
-
+   
 8. Run the app:
 
    ```bash
    $ flask run
    ```
 
-You should now be able to access the app at [http://localhost:5000](http://localhost:5000)! For the full context behind this example app, check out the [tutorial](https://beta.openai.com/docs/quickstart).
+You should now be able to access our app at [http://localhost:5000](http://localhost:5000)! 
+
+
+https://user-images.githubusercontent.com/123788724/226832253-5c16ba58-1f85-4f58-8228-89c684f29431.mov
+
+
