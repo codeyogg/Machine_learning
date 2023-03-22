@@ -1,6 +1,12 @@
-# OpenAI API Quickstart - Python example app
+# Akanksha Singh (19745)'s ChatGPT Project
 
-This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Check out the tutorial or follow the instructions below to get set up.
+Project question - https://hc.labnet.sfbu.edu/~henry/sfbu/course/machine_learning/chatgpt/slide/exercise_chatgpt.html.
+
+Loosely built on top of the following 2 OpenAI example projects:
+1. https://github.com/openai/openai-quickstart-python
+2. https://github.com/openai/openai-cookbook/tree/main/apps/web-crawl-q-and-a
+
+Steps to run:
 
 ## Setup
 
